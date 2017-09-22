@@ -1,0 +1,22 @@
+{
+    "id" : "BasicEdibles",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "BasicEdibles",
+    "description" : "Adds common edible plants.",
+    "dependencies" : [
+        {
+            "id" : "Hunger",
+            "minVersion" : "1.0.0"
+        },
+        {
+           "id" : "Thirst",
+           "minVersion" : "1.0.0"
+        },
+        {
+           "id" : "SimpleFarming",
+           "minVersion" : "1.0.0"
+        }
+    ],
+    "serverSideOnly" : false
+}
